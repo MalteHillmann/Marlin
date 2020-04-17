@@ -484,9 +484,9 @@
   // If you are using a pre-configured hotend then you can use one of the value sets by uncommenting it
 
   // RF100XL
-  #define DEFAULT_Kp 17.81
-  #define DEFAULT_Ki 1.51
-  #define DEFAULT_Kd 52.53
+  #define DEFAULT_Kp 34.09
+  #define DEFAULT_Ki 3.38
+  #define DEFAULT_Kd 85.88
 
   // Ultimaker
   //#define DEFAULT_Kp 22.2
